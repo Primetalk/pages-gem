@@ -7,7 +7,7 @@ on:
     branches: [ master ]
  
 env:
-  DOCKER_TAG_IMAGE: "ghcr.io/github/pages-gem"
+  DOCKER_TAG_IMAGE: "ghcr.io/primetalk/pages-gem"
 
 jobs:
   build:
